@@ -38,6 +38,7 @@ Each folder represents **one day or one topic**.
 Make sure Python is installed:
 
 python --version
+
 Run any file:
 python filename.py
 
